@@ -1,4 +1,4 @@
-# ML-AI-Final-Project
+# Investigating Links Between Preferred Music Genre and Mental Health
 Codecademy Machine-Learning &amp; Artificial Intelligence Fundamentals Final Data Analysis Project
 
 Project Scope:
